@@ -2,7 +2,7 @@
 
 # About Radiooooo.com
 
- # Here you can select the year and country and listen to what music was popular there at that time. Works like a time-machine.
+ # Here you can select the year and country and listen to what music was popular there at that time. Works like a time-machine.(I Know 😂)
 
 ## Fun Fact :
 
